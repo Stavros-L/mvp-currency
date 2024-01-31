@@ -1,0 +1,43 @@
+
+.title{
+  text-align: center;
+  color: green;
+
+
+}
+
+.inputForm {
+    align-items: center;
+    text-align: center;
+    margin: 3rem;
+}
+
+
+.inputForm input {
+    margin: 2px;
+}
+
+/* Styles for the container of Flexbox pairs */
+.Flexfield {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styles for individual Flexbox pairs */
+.Flexbox {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: lightblue;
+}
+
+/* Additional styles for the Flexbox pairs */
+.Flexbox p {
+  margin: 5px 0;
+}
+
+.Flexbox button {
+  margin-top: 10px;
+}
